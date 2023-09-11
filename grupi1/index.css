@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5750d;
+    text-align: center;
+   
+
+  }
+  
+  h1 {
+    color: #080504;
+    text-align: center;
+    font-size: 100px;
+  }
+  
+  h2 {
+    color: #0a0a0a;
+    text-align: center;
+
+
+  }
+  h4 {
+    font-family: 'Times New Roman', Times, serif;
+
+    color: #080504;
+
+    text-align: center;
+    font: 10px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+  }
+  
